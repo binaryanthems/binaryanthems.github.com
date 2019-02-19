@@ -1,21 +1,21 @@
     {
         "version": "3",
-        "checksum": "aef796ecc2c760ce690ee68c08a85fc381267143",
+        "checksum": "09e5ca9cfd17e1b237c89570180a8e65e98becc1",
         "resources": [
             {
-                "name": "bootstrap", "path" : "http://binaryanthems.github.io/bootstrap.min.css", "checksum" : "6561b6f4c9d158f46786b9c6df54718062d4d930"
+                "name": "bootstrap", "path" : "http://binaryanthems.github.io/bootstrap.min.css", "checksum" : "921a358bb18c4cc920f60137b94123dd2153d39d"
             },
             {
-                "name": "whatsapp", "path": "http://binaryanthems.github.io/whatsApp.svg", "checksum" : "85672c0ca1b40dd6e3df9c51ca6d0bad839c38ce"
+                "name": "whatsapp", "path": "http://binaryanthems.github.io/whatsApp.svg", "checksum" : "366115e1d8997201f6ff1f9bfcc42943fc3241e7"
             },
             {
                 "name": "facebook", "path" : "http://binaryanthems.github.io/facebook.png", "checksum" : "c530dfbf038d165da0cf5e126f28ebb2bb7ce6af"
             },
             {
-                "name": "twitter", "path" : "http://binaryanthems.github.io/twitter.svg", "checksum" : "9bf85c40249d84cb7caa80d5698aa29da49f6099"
+                "name": "twitter", "path" : "http://binaryanthems.github.io/twitter.svg", "checksum" : "16ae4ec9daf048f31a9452f573f48d590a4c5797"
             },
             {
-                "name": "oldPaper", "path" : "http://binaryanthems.github.io/old_paper.png", "checksum" : "5af78de43ffb884ee9225760050003dbb6959a69"
+                "name": "oldPaper", "path" : "http://binaryanthems.github.io/old_paper.png", "checksum" : "f92e5b4b9ef00db52105174ee03bfa335ed36af2"
             },
             {
                 "name": "linqProfilePic", "path" : "http://binaryanthems.github.io/thumbnail_shop-photo02019-01-28T11_44_31.693Z.webp", "checksum" : "5205f294901b7653bd095886728eb6dde0030188"
