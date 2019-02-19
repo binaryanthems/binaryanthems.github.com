@@ -1,0 +1,43 @@
+<svg id="WhatsApp_Icn_Green" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #28b53e;
+      }
+
+      .cls-3 {
+        fill: #bcbcbc;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f9f9f9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="background">
+    <rect id="background-2" data-name="background" class="cls-1" width="24" height="24"/>
+  </g>
+  <g id="WhatsApp_Logo" data-name="WhatsApp Logo" transform="translate(0.99 1.149)">
+    <path id="shape_3" data-name="shape 3" class="cls-2" d="M97.94,117.687l1.287-4.709a9.068,9.068,0,1,1,7.86,4.551h0a9.052,9.052,0,0,1-4.334-1.105Z" transform="translate(-96.025 -97.65)"/>
+    <g id="shape_2" data-name="shape 2" transform="translate(1.01 0.85)">
+      <path id="Path_2613" data-name="Path 2613" class="cls-3" d="M90.68,111.359l1.357-4.954a9.562,9.562,0,1,1,8.285,4.788h0a9.549,9.549,0,0,1-4.568-1.164Zm5.3-3.061.29.172a7.936,7.936,0,0,0,4.045,1.108h0a7.949,7.949,0,1,0-6.732-3.725l.189.3-.8,2.935Z" transform="translate(-90.284 -91.691)"/>
+      <path id="Path_2514" data-name="Path 2514" class="cls-4" d="M90.68,111.017l1.333-4.866a9.4,9.4,0,1,1,8.142,4.7h0a9.389,9.389,0,0,1-4.49-1.143Zm5.212-3.007.285.169a7.8,7.8,0,0,0,3.975,1.088h0a7.809,7.809,0,1,0-6.616-3.659l.186.3-.789,2.883Z" transform="translate(-90.102 -91.541)"/>
+    </g>
+    <g id="shape_1" data-name="shape 1" transform="translate(5.738 5.948)">
+      <path id="Path_2515" data-name="Path 2515" class="cls-5" d="M197.427,204.682c-.176-.392-.36-.4-.528-.406-.135-.006-.294-.005-.451-.005a.863.863,0,0,0-.626.294,2.641,2.641,0,0,0-.822,1.962,4.584,4.584,0,0,0,.959,2.433,9.628,9.628,0,0,0,4.01,3.551c1.982.784,2.388.627,2.818.587a2.377,2.377,0,0,0,1.585-1.119,1.942,1.942,0,0,0,.135-1.118c-.061-.1-.215-.157-.451-.274s-1.389-.687-1.6-.767-.372-.117-.528.118-.606.765-.743.922-.274.176-.509.059a6.4,6.4,0,0,1-1.888-1.168,7.046,7.046,0,0,1-1.307-1.629c-.135-.235-.015-.361.1-.48s.235-.274.352-.412a1.6,1.6,0,0,0,.234-.392.434.434,0,0,0-.019-.412C198.088,206.306,197.636,205.147,197.427,204.682Z" transform="translate(-194.451 -203.781)"/>
+    </g>
+  </g>
+</svg>
