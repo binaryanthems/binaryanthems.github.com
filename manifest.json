@@ -1,6 +1,6 @@
     {
         "version": "3",
-        "checksum": "",
+        "checksum": "aef796ecc2c760ce690ee68c08a85fc381267143",
         "resources": [
             {
                 "name": "bootstrap", "path" : "http://binaryanthems.github.io/bootstrap.min.css", "checksum" : "6561b6f4c9d158f46786b9c6df54718062d4d930"
