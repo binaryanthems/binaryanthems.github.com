@@ -1,0 +1,24 @@
+    {
+        "version": "3",
+        "checksum": "",
+        "resources": [
+            {
+                "name": "bootstrap", "path" : "http://binaryanthems.github.io/bootstrap.min.css", "checksum" : "6561b6f4c9d158f46786b9c6df54718062d4d930"
+            },
+            {
+                "name": "whatsapp", "path": "http://binaryanthems.github.io/whatsApp.svg", "checksum" : "85672c0ca1b40dd6e3df9c51ca6d0bad839c38ce"
+            },
+            {
+                "name": "facebook", "path" : "http://binaryanthems.github.io/facebook.png", "checksum" : "c530dfbf038d165da0cf5e126f28ebb2bb7ce6af"
+            },
+            {
+                "name": "twitter", "path" : "http://binaryanthems.github.io/twitter.svg", "checksum" : "9bf85c40249d84cb7caa80d5698aa29da49f6099"
+            },
+            {
+                "name": "oldPaper", "path" : "http://binaryanthems.github.io/old_paper.png", "checksum" : "5af78de43ffb884ee9225760050003dbb6959a69"
+            },
+            {
+                "name": "linqProfilePic", "path" : "http://binaryanthems.github.io/thumbnail_shop-photo02019-01-28T11_44_31.693Z.webp", "checksum" : "5205f294901b7653bd095886728eb6dde0030188"
+            }
+        ]
+    }
